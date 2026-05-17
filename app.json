@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "WeatherNow",
+    "slug": "weather-now",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#0a0f1e"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0a0f1e"
+      },
+      "permissions": []
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
