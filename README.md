@@ -13,7 +13,7 @@ App de previsão do tempo desenvolvido em React Native com Expo, consumindo a Op
 
 - React Native
 - Expo SDK 54
-- Open-Meteo API (gratuita, sem necessidade de chave)
+- Open-Meteo API
 
 ## Como rodar
 
